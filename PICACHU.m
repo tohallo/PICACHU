@@ -13,7 +13,7 @@
 % \0_ 0 /╱\╱
 % \▁︹_/
 
-clear
+clear all
 close all
 %% constants
 R = 8.314; % J K-1 mol ‑1
