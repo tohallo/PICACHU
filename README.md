@@ -1,4 +1,6 @@
 # PICACHU
+PICArroCHamberflUx (PICACHU)  
+
 PICACHU.m is the main program.  In the current configuration, this file, and the other .m files (functions) it refers to, should be in the same directory, as well as the data folders it refers to, and under a master sample-date based folder.  this way, the PICACHU.m file can be customized for each date as needed.  in the future, it may be possible to streamline this so only data files need to change
 
 Based on the LICOR flux equations from here
