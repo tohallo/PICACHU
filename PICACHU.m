@@ -13,6 +13,12 @@
 % \0_ 0 /╱\╱
 % \▁︹_/
 
+%download the following folders with input data in the same diretory as this .m file
+
+%Campbell-logger
+%metadata
+%Picarro
+
 clear all
 close all
 %% constants
